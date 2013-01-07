@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://rintcius.github.com/blog/archives/</loc>
+        <loc>http://blog.rintcius.nl/blog/2013/01/07/hello-from-octopress/</loc>
+        <lastmod>2013-01-07T00:36:39+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.rintcius.nl/blog/archives/</loc>
+        <lastmod>2013-01-07T00:36:39+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.rintcius.nl/robots.txt</loc>
         <lastmod>2013-01-06T23:25:42+00:00</lastmod>
     </url>
     <url>
-        <loc>http://rintcius.github.com/robots.txt</loc>
-        <lastmod>2013-01-06T23:25:42+00:00</lastmod>
-    </url>
-    <url>
-        <loc>http://rintcius.github.com/</loc>
-        <lastmod>2013-01-06T23:25:42+00:00</lastmod>
+        <loc>http://blog.rintcius.nl/</loc>
+        <lastmod>2013-01-07T00:36:39+00:00</lastmod>
     </url>
 </urlset>
